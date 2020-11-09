@@ -1,2 +1,0 @@
-.kalokohan.php
-.kalokohan2.php
